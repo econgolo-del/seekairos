@@ -1,0 +1,13 @@
+{
+  "name": "Seekairos FX Assistant",
+  "short_name": "Seekairos",
+  "description": "Mozambique FX Regulation Assistant",
+  "start_url": "/fx-assistant.html",
+  "display": "standalone",
+  "background_color": "#0a0c0f",
+  "theme_color": "#00c896",
+  "icons": [
+    { "src": "https://placehold.co/192x192/00c896/0a0c0f?text=S", "sizes": "192x192", "type": "image/png" },
+    { "src": "https://placehold.co/512x512/00c896/0a0c0f?text=S", "sizes": "512x512", "type": "image/png" }
+  ]
+}
