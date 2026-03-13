@@ -6,10 +6,3 @@
   from = "/api/chat"
   to = "/.netlify/functions/chat"
   status = 200
-```
-
-4. Click **"Commit changes"**
-
----
-
-## Then Rename chat.js to a Function
